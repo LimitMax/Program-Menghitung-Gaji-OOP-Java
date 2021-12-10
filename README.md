@@ -5,9 +5,9 @@ Berikut Merupakan Program Menghitung Gaji menggunakan Java OOP dan masukan melal
 *Pegawai Tetap:
 - Gaji Pokok: 
 Lama Kerja <= 5 Tahun = Rp.1800000
-Lama Kerja <= 10 Tahun = Rp.2500000
-Lama Kerja <= 20 Tahun = Rp.3500000
-Lama Kerja > 20 Tahun = Rp. 5000000
+,Lama Kerja <= 10 Tahun = Rp.2500000
+,Lama Kerja <= 20 Tahun = Rp.3500000
+,Lama Kerja > 20 Tahun = Rp. 5000000
 - Tunjangan Anak         = Rp. 500000
 - Tunjangan Transportasi = Rp. 300000
 - Gaji Pegawai           = Gaji Pokok + Total Seluruh Tunjangan
