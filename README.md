@@ -17,6 +17,7 @@ Lama Kerja <= 5 Tahun = Rp.1800000
 - Tunjangan Makan / Hari = Rp. 10000
 - Gaji Pegawai           = (Honor * Jml Hari Kerja) + (Tunjangan Makan * jml Hari Kerja)
 
+<!-- 
 NAMA  : TAUFIQ QUROHMAN RUKI
 NIM   : 10120708
-KELAS : IF-7
+KELAS : IF-7 -->
